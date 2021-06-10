@@ -1,0 +1,33 @@
+_repo: Sunset-s-Cabin-Plan-Book_65429
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Friedell, Clemens
+    gutenberg_agent_id: '53341'
+    url: http://www.gutenberg.org/2009/agents/53341
+  - agent_name: Gordon, Norman
+    gutenberg_agent_id: '53340'
+    url: http://www.gutenberg.org/2009/agents/53340
+creator:
+  editor:
+    agent_name: Dillon, Ralph P.
+    gutenberg_agent_id: '53339'
+    url: http://www.gutenberg.org/2009/agents/53339
+description: ''
+gutenberg_issued: '2021-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65429'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Buildings'
+- !lcsh 'Architecture, Domestic -- Designs and plans'
+- !lcc 'NA'
+- !lcsh 'Log cabins'
+- !lcc 'TH'
+- GITenberg
+title: Sunset's Cabin Plan Book
+url: http://www.gutenberg.org/ebooks/65429
