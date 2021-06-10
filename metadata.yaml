@@ -1,5 +1,5 @@
 _repo: Sunset-s-Cabin-Plan-Book_65429
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrators:
   - agent_name: Friedell, Clemens
@@ -8,12 +8,17 @@ contributor:
   - agent_name: Gordon, Norman
     gutenberg_agent_id: '53340'
     url: http://www.gutenberg.org/2009/agents/53340
+covers:
+- cover_type: archival
+  image_path: 65429-h/images/cover.jpg
 creator:
   editor:
     agent_name: Dillon, Ralph P.
     gutenberg_agent_id: '53339'
     url: http://www.gutenberg.org/2009/agents/53339
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65429#Sunset-s-Cabin-Plan-Book
 gutenberg_issued: '2021-05-23'
 gutenberg_type: Text
 identifiers:
